@@ -30,4 +30,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Created by [Your Name](https://github.com/RaphaelHacques)
+Created by [RaphaelHacques](https://github.com/RaphaelHacques)
